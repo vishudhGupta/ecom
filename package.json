@@ -9,8 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@next/env": "^12.0.7",
+    "bootstrap": "^5.1.0",
+    "lodash": "^4.17.21",
     "next": "12.2.3",
     "react": "18.2.0",
+    "react-bootstrap": "^2.5.0-beta.1",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
